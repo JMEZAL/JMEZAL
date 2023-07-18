@@ -1,16 +1,26 @@
-### Hi there 👋
+### hello I am Jaime 👋
 
-<!--
-**JMEZAL/JMEZAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
 
-Here are some ideas to get you started:
+- 🎂 I'm 18
+- 🖥️ Study Ign. of Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Achievements
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=novicion&show_icons=true&theme=radical)
+
+## Used languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Novicion&langs_count=8)
+
+<p align="center">
+  <a href="https://twitter.com/NovicionDev">
+    <img align="center" alt="Twitter" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  </a>
+  <a href="https://discord.gg/D9JShpPJb9">
+    <img align="center" alt="Discord" width="28px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  </a>
+  <a href="https://www.instagram.com/noviciondev/">
+    <img align="center" alt="Instagram" width="28px" src="https://cdn.discordapp.com/attachments/972628722500898856/1054145888441860176/Instagram-Icon.png" />
+  </a>
+</p>
